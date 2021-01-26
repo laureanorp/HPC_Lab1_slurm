@@ -1,0 +1,388 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+FastQC version: FastQC v0.11.8
+Running FastQC on each file individually
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+Running FastQC using a for loop
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+
+real	0m8,866s
+user	0m15,390s
+sys	0m0,769s
+Running FastQC using the parallel command
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Analysis complete for Sample3.fastq
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample1.fastq
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample4.fastq
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample2.fastq
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_ES.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_ES.UTF-8").
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+
+real	0m2,358s
+user	0m17,047s
+sys	0m0,889s

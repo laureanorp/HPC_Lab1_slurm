@@ -1,0 +1,18 @@
+Host: pacioli
+User: alumno17
+Script directory: /home/alumno17/lab1
+1
+Initializing
+Starting Compute on 32 threads
+GFlops =   4096.000, Secs =     14.088, GFlops per sec =    290.742
+
+2
+Initializing
+Starting Compute on 32 threads
+GFlops =   4096.000, Secs =     14.205, GFlops per sec =    288.342
+
+3
+Initializing
+Starting Compute on 32 threads
+GFlops =   4096.000, Secs =     14.292, GFlops per sec =    286.592
+
